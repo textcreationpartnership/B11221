@@ -1,0 +1,2382 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quips vpon questions, or, A clownes conceite on occasion offered bewraying a morrallised metamorphoses of changes vpon interrogatories: shewing  a litle wit, with a great deale of will; or in deed, more desirous to please in it, then to profite by it. Clapt vp by a clowne of the towne in this last restraint, hauing litle else to doe, to make a litle vse of his fickle muse, and carelesle carping. By Clunnyco de Curtanio Snuffe. ...</title>
+            <title>Quips upon questions.</title>
+            <author>Armin, Robert, fl. 1610.</author>
+         </titleStmt>
+         <extent>Approx. 75KB of XML-encoded text transcribed from 33 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B11221</idno><idno type="EEBO-CITATION">99855013</idno>
+  <idno type="VID">177580</idno>
+  <idno type="EEBO-PROQUEST">2240858596</idno>
+  <idno type="STC">STC 775.5</idno>
+  <idno type="STC">ESTC S119807</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99855013e"/>
+            <note>(EEBO-TCP ; phase 2, no. B11221)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 177580)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1084:07)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Quips vpon questions, or, A clownes conceite on occasion offered bewraying a morrallised metamorphoses of changes vpon interrogatories: shewing  a litle wit, with a great deale of will; or in deed, more desirous to please in it, then to profite by it. Clapt vp by a clowne of the towne in this last restraint, hauing litle else to doe, to make a litle vse of his fickle muse, and carelesle carping. By Clunnyco de Curtanio Snuffe. ...</title>
+                  <title>Quips upon questions.</title>
+                  <author>Armin, Robert, fl. 1610.</author>
+                  <author>Singer, John, fl. 1594-1602, attributed name.</author>
+               </titleStmt>
+               <extent>[48] p.   </extent>
+               <publicationStmt>
+                  <publisher>[By W. White] for W. Ferbrand, and are to be sold at the signe of the Crowne ouer against the Mayden head neare Yelehall,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1600.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Clunnyco de Curtanio Snuffe is a pseudonym for Robert Armin.</note>
+                  <note>Printer's name from colophon.</note>
+                  <note>In verse.</note>
+                  <note>Formerly STC 22573.</note>
+                  <note>Identified as STC 22573 on UMI microfilm reel 1084.</note>
+                  <note>Signatures: A-F⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Brian Matzke </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Brian Matzke</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:177580:1"/>
+            <pb facs="tcp:177580:1"/>
+            <pb facs="tcp:177580:2"/>
+            <pb facs="tcp:177580:2"/>
+            <pb facs="tcp:177580:3"/>
+            <pb facs="tcp:177580:3"/>
+            <pb facs="tcp:177580:4"/>
+            <pb facs="tcp:177580:4"/>
+            <p>QVIPS VPON QVESTIONS, OR, A Clownes conceite on occasion offered. bewraying a morrallised metamorphoses of changes vpon interrogatories: shewing a litle wit, with a great deale of will; or in deed, more desirous to please in it, then to profite by it.</p>
+            <p>Clapt vp by a Clowne of the towne in this last restraint, hauing litle else to doe, to make a litle vse of his fickle Muse, and carelesse of carping.</p>
+            <p>
+               <hi>By Clunnyco de Curtanio Snuffe.</hi>
+            </p>
+            <q>
+               <l>Like as you list, read on and spare not,</l>
+               <l>Clownes iudge like Clownes, therefore I care not:</l>
+            </q>
+            <p>
+               <hi>Or thus,</hi>
+               <q>
+                  <l>Floute me, Ile floure thee; it is my profession,</l>
+                  <l>To iest at a lester, in his transgression.</l>
+               </q>
+            </p>
+            <p>Imprinted at London for <hi>W. Ferbrand,</hi> and are to be sold at the signe of the Crowne ouer against the Mayden head neare Yelehall. 1600.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:177580:5"/>
+            <pb facs="tcp:177580:5"/>
+            <head>TO THE RIGHT WORTHY SIR TIMOTHIE TRVNCHION: <hi>Alias</hi> BASTINADO, euer my part-taking friende: <hi>Clunnico de Curtanio</hi> sendeth greeting; wishing his welfare, but not his meeting.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">R</seg>Ight worthy (but not Right</hi> Worshipfull, whose birth or grouth being in the open fieldes) I salute thy Crab-tree countenance with a low congeey, being stroke downe with thy fauour: whereas (kind sir) I some<g ref="char:EOLhyphen"/>time slept with thee in the fieldes, wanting a house ore my head; and that you then in kindnesse, because I was so kind, kindly to accept your kind companie, because I was vnkindly thrust out of my lodging; at that instant, you assured me to take my part in all dangers: I am now to make vse of your valloure, to protect me from insicion, or in deede from dirrision, in which I am now to wade deepely: but if I scape Monday, which is omminus to me, I shall thinke my selfe happie: and though Fryday be for this yeere Childermas day, yet it is no such day of danger to me; then on Tuesday I rake my Ior<g ref="char:EOLhyphen"/>ney (to waite on the right Honorable good Lord my Mai<g ref="char:EOLhyphen"/>ster whom I serue) to Hackney. Guard me through the Spit<g ref="char:EOLhyphen"/>tle fieldes, I beseech yee, least some one in ambush endanger my braynes with a Brickbat vnsight or vnseene. Sweete
+<pb facs="tcp:177580:6"/> Sir <hi>Timothie,</hi> kind sir <hi>Timothie,</hi> tough sir <hi>Timothie,</hi> vse me with kindnesse, as you shall in the like commaunde me hereafter: whose Barke I will grate like Ginger, and car<g ref="char:EOLhyphen"/>rouse it in Ale, and drinke a full cuppe to thy curtesie, when I am returnd to the Citie againe. I shalbe lesse fearefull, be<g ref="char:EOLhyphen"/>ing among my friendes: yet like a Burgomaister walke from Stationers shop to Stationers shop, to see what enter<g ref="char:EOLhyphen"/>tainement my Booke hath; and who so disgrases it enuiously, and not iesting at it gently, at the least baslinado them, that bobbadillo like as they censure, so with him they may re<g ref="char:EOLhyphen"/>ceiue reward. I confesse mine owne weaknesse, and will not iustifie my harebraind folly: but yet I thinke all men of my minde, gently to iudge, not rashly to reuile. Well, when my Bookes are in Paules Church-yarde, if they passe through Paules I care not, for in Fleet-streete I haue friendes that will take Lud-gate to defende me. What should I say? My trust is, that either my simplicitie of loue, or thy crueltie in cudgeling, will guard me from enuious tongues, whose teeth are all blacke with rancor of their spight; and whose tongues are milke white with hart burning heate: God keepe me from their byting; I had rather be stroken with a poysoned bullet: that were a death honorable, the other a life miserable. No more but this, say I am out of towne and heare not their ribald mockes, and by that meanes ex<g ref="char:EOLhyphen"/>cuse me from them, whose poysoned tongues will else abuse me.</p>
+            <closer>
+               <signed>
+                  <hi>Thine euer with true endeuour,</hi> Clunnico Snuffe. VALE.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:177580:6"/>
+            <head>To the Reader health and patience.</head>
+            <p>
+               <seg rend="decorInit">R</seg>Eaders, Reuilers, or in deede what not? to you I appeale, either for a quicke turne ouer, or a long lookt for louing looke. I neede not twelue for a Iurie, I shall haue enough to condemne me: but haue a care ye deale iustly, least my blood be layd to your charge. Glut with gazing, surfet with seeing, and rel<g ref="char:EOLhyphen"/>lish with reading: It may be there are some preseruatiues, not poyson, though harsh in disgesture. Well, go on, vse me at your pleasure. Well fare words yet, though they wound, they kill not: a man may liue after to requite his aduersarie, and reuenge his owne quarrell. A man shal not be slaine in hugger mugger pissing against a wall, but shall rather be warnd to defend; and then his death is lesse dangerous. I am tedious, my request is; Vse thy disgression, or thy discres<g ref="char:EOLhyphen"/>sion. He that must of force endure, is willing of force to be patient: but if your patience willingly endure vnforst, I shalbe the more beholding to you: otherwise, let Sir <hi>Timo<g ref="char:EOLhyphen"/>thie</hi> reuenge it, (and so a thousand times making legges, I goe still backward, till I am out of sight, hoping then to be out of minde:) I commit you to a bottell of Tower-hill water, with which hauing cleared your eye-sight, you may read with more regard: for, <hi>Legere et non intilegere, neclegere est.</hi> God a mercie <hi>Cato.</hi>
+            </p>
+            <closer>
+               <signed>Thine owne <hi>Snuffe,</hi> that takes it in Snuffe, to be otherwise then well vsde.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:177580:7"/>
+            <head>Incouragement to the Booke.</head>
+            <lg>
+               <l>Goe on, feare none; goe too and doubt not:</l>
+               <l>Some fooles make Rules, for the wise to flout at.</l>
+            </lg>
+            <lg>
+               <l>But wise haue eyes, and wit with all,</l>
+               <l>To iudge right at first sight, if the worst fall.</l>
+            </lg>
+            <lg>
+               <l>On then, right men, vvill rightly fauor.</l>
+               <l>VVhose vvit, iudging it, vvill not vvauor.</l>
+            </lg>
+            <lg>
+               <l>But fooles haue tooles sharpe in season,</l>
+               <l>To vvound and confound vvithout reason.</l>
+            </lg>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:177580:7"/>
+            <head>Quips vpon Questions, OR, A Clownes conceite on occasion offerd.</head>
+            <div type="question">
+               <head>VVHO began to liue in the worlde?</head>
+               <lg>
+                  <l>
+                     <hi>Adam</hi> was he, that first liude in the world,</l>
+                  <l>And <hi>Eue</hi> was next: Who knowes not this is true?</l>
+                  <l>But at the last he was from all grace hurld,</l>
+                  <l>And she for companie, the like did rue.</l>
+                  <l>Was he the first? I, and was thus disgrast,</l>
+                  <l>Better for him, that he had been the last.</l>
+               </lg>
+               <lg>
+                  <head>Quip.</head>
+                  <l>
+                     <hi>Thou art a foole: Why? for reasoning so,</hi>
+                  </l>
+                  <l>
+                     <hi>But not the first, nor last, by many mo.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="question">
+               <head>Why barkes that Dogge?</head>
+               <lg>
+                  <l>Aske him, and he will tell thee why he barkes.</l>
+                  <l>Dogges can not speake, although they gape so lowde:</l>
+                  <l>Enough to pose the wisest heades of Clarkes,</l>
+                  <l>To aske this reason, yet it is alowde.</l>
+                  <l>Dogges can make noyse and babble in the streete,</l>
+                  <l>But why, the wysest cannot thinke it meete.</l>
+               </lg>
+               <lg>
+                  <l>If a man run, straight Dogges begin to ball,</l>
+                  <l>I, Dogges at Dogges: is not this strange to see?</l>
+                  <l>No nothing strange, for Men are worst of all,</l>
+                  <l>Theyle brawle, and law, and neuer will agree:</l>
+                  <pb facs="tcp:177580:8"/>
+                  <l>A Dogges wrath quickly endes, it hath no keeping:</l>
+                  <l>But Mens wrath lasteth both awake and sleeping.</l>
+               </lg>
+               <lg>
+                  <l>A Dogges skin serues for something when he's dead,</l>
+                  <l>A Mans for nothing: yet is Man the better.</l>
+                  <l>Nay tis not so, thy skin will stand in stead,</l>
+                  <l>Tis thicke, tough, strong, and will appease thy debter:</l>
+                  <l>For he that owes thee money, and thee feares,</l>
+                  <l>hath vowde to pull thy skinne ouer thy eares.</l>
+               </lg>
+               <lg>
+                  <l>Thou that wilt make comparisons so odious,</l>
+                  <l>As twixt a Christian and a barking Curre,</l>
+                  <l>I hold thy wit to be no whit commodious,</l>
+                  <l>But to be scrapt out like a parchment blurre:</l>
+                  <l>That louing Dogges, and senselesse li<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e as they,</l>
+                  <l>Naught sits thee, but their barking in the way.</l>
+               </lg>
+               <lg>
+                  <head>Quip.</head>
+                  <l>
+                     <hi>One to offende in asking such a question,</hi>
+                  </l>
+                  <l>
+                     <hi>Th'other defende and choke in his disgestion:</hi>
+                  </l>
+                  <l>
+                     <hi>Well reasond both too fooles, and if you marke,</hi>
+                  </l>
+                  <l>
+                     <hi>Both wanting wit, better be Dogges, and barke.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="question">
+               <head>Who sleepes in the grasse?</head>
+               <lg>
+                  <l>A Man it seemes. No, no, thou art not right,</l>
+                  <l>It is a Beast, they still sleepe in the grasse:</l>
+                  <l>Perchaunce he wants a bedde, and wakes all night,</l>
+                  <l>Making the day his night: yet heese an Asse.</l>
+               </lg>
+               <lg>
+                  <l>Say Woormes or Cankers may offend him there,</l>
+                  <l>Indeed thats true, I did not thinke of that:</l>
+                  <l>Why then an Asse a Beast is: he is here,</l>
+                  <l>T'approue my speaches true, that fables not.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:177580:8"/>
+                  <l>If he b'a beast, I know a number more,</l>
+                  <l>Thy selfe was one before thou hadst a bed.</l>
+                  <l>Take m'as I am, not as I was before:</l>
+                  <l>For now I haue a pillow to my hed.</l>
+               </lg>
+               <lg>
+                  <l>Hereafter, he may say so that here lies</l>
+                  <l>Till then, as I was, let him be a beast.</l>
+                  <l>Cannes, lets goe drinke, and bid this beast arise:</l>
+                  <l>Beastes in beastes companie do drinke and feast.</l>
+               </lg>
+               <lg>
+                  <head>Quip.</head>
+                  <l>
+                     <hi>This man's a worsse beast, hauing worldly pelfe,</hi>
+                  </l>
+                  <l>
+                     <hi>That thinkes all beastes, and would be none him selfe:</hi>
+                  </l>
+                  <l>
+                     <hi>Yet he's a more beast, that poore creatures scornes,</hi>
+                  </l>
+                  <l>
+                     <hi>Who hauing a beasts hart, God send him haue beasts hornes.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="question">
+               <head>Who's dead?</head>
+               <lg>
+                  <l>A man is dead, that long before ere this,</l>
+                  <l>Dy'd twentie times, yet liude to die this day.</l>
+                  <l>Tis strange it should be so; yet so it is:</l>
+                  <l>But I will tell thee how, and if I may.</l>
+                  <l>Yes pre-thee doe, for why, I long to knowe</l>
+                  <l>How men can die, yet liue and see to goe.</l>
+               </lg>
+               <lg>
+                  <l>He by his trade dies cloth: he is a Dier.</l>
+                  <l>A Iest, no otherwise I vnderstand,</l>
+                  <l>And I can witnes thee to be no her,</l>
+                  <l>For he dies all things that doth come to hand.</l>
+                  <l>But he that many times did die in iest,</l>
+                  <l>Now once for all, vouchsafes to die in earnest.</l>
+               </lg>
+               <lg>
+                  <head>Quip.</head>
+                  <l>
+                     <hi>To fooles well met, t'resolue each others minde,</hi>
+                  </l>
+                  <l>
+                     <hi>Of that in which the wisest eye is blinde.</hi>
+                  </l>
+                  <l>
+                     <hi>I quip them thus: He that before death dies,</hi>
+                  </l>
+                  <l>
+                     <hi>Shall with the blind man see, yet want his eies.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="question">
+               <pb facs="tcp:177580:9"/>
+               <head>Two Fooles well met.</head>
+               <lg>
+                  <l>Two Fooles well met, each poynted at the other,</l>
+                  <l>Laughing a good to see each others face:</l>
+                  <l>The one made vow to call his fellow brother,</l>
+                  <l>And to acknowledge him in euery place.</l>
+                  <l>To lend him coyne, though he had none him selfe:</l>
+                  <l>To teach him wit, when he him selfe had none.</l>
+                  <l>The other sott, like to this former elfe,</l>
+                  <l>T'requite his kindnesse, vowd like loue alone,</l>
+                  <l>When none had for to doe the other good:</l>
+                  <l>Yet loue will creepe lightly wher't can not go.</l>
+                  <l>Seest thou this Bird (quoth he) in yonder wood?</l>
+                  <l>I giue thee her to rost. O wilt thou so?</l>
+                  <l>That meate I loue, and I will not denie her.</l>
+                  <l>Take her (quoth he) and if thou canst come by her.</l>
+                  <l>Were not these fooles, to promise what they had not?</l>
+                  <l>Where such want wit, t'were better their tongs gad not.</l>
+               </lg>
+               <lg>
+                  <head>Quip.</head>
+                  <l>
+                     <hi>True hast thou sayd, the first was nothing wise,</hi>
+                  </l>
+                  <l>
+                     <hi>No more the second was, let it fuffise:</hi>
+                  </l>
+                  <l>
+                     <hi>One that giues golde, the next that giues the bird,</hi>
+                  </l>
+                  <l>
+                     <hi>Three Fooles well met, for thou shalt be the third.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="question">
+               <head>Who wins most?</head>
+               <lg>
+                  <l>He that doth litle loose, hath litle wonne:</l>
+                  <l>He that doth nothing loose when game is donne,</l>
+                  <l>He tis winnes most say I: for heer's the ieast,</l>
+                  <l>He winnes content, because he lost the least.</l>
+                  <l>Againe, he that much ventures, much is like to lose:</l>
+                  <l>But he that nought ventures, nothing from him goes.</l>
+                  <l>So that he winnes most euermore say I,</l>
+                  <l>That ventures least, and liues contentedly.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:177580:9"/>
+                  <head>Quip.</head>
+                  <l>
+                     <hi>If it be so, what can he loose or win</hi>
+                  </l>
+                  <l>
+                     <hi>That nothing hath? Why, nothing's lost therein.</hi>
+                  </l>
+                  <l>
+                     <hi>Thou hadst no wit at all, then by my will,</hi>
+                  </l>
+                  <l>
+                     <hi>A Foole being euer, so continue still.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="question">
+               <head>VVhats vnfit.</head>
+               <lg>
+                  <l>Mee thinks it is vnfit that women scoulde.</l>
+                  <l>True, so me thinks; and yet they will not leaue.</l>
+                  <l>Mee thinks tis strange that Summer should be coulde,</l>
+                  <l>And yet the season often doth deceaue.</l>
+                  <l>How vnfit things are, seeming to agree,</l>
+                  <l>That euery man in reason ought to see.</l>
+               </lg>
+               <lg>
+                  <l>Mee thinks tis strange, water should make fire burne,</l>
+                  <l>When water quencheth fier euermore:</l>
+                  <l>In the Smiths forge tis so, whose hand doth turne,</l>
+                  <l>Both heate and cold, to furnish out his store.</l>
+                  <l>How can this fit, when things vnsitting bee?</l>
+                  <l>How ere they fit, they fit yet and agree.</l>
+               </lg>
+               <lg>
+                  <l>The Bellowes blowes out fier, yet makes fier blaze.</l>
+                  <l>Blow in hot Pottage and they wilbe could.</l>
+                  <l>When thy nayles freeze, blow with thy breath apace</l>
+                  <l>And they will heate againe, thou mayst be bould.</l>
+                  <l>Things seeming vnfit, fitteth to be done:</l>
+                  <l>God giues, man vses, since the world begun.</l>
+               </lg>
+               <lg>
+                  <head>Quip</head>
+                  <l>
+                     <hi>A wonder how, me thinkes it is vnfit,</hi>
+                  </l>
+                  <l>
+                     <hi>To see an Iron Gridiron turne a Spit.</hi>
+                  </l>
+                  <l>
+                     <hi>No, no, mee thinks that it is more vnfit,</hi>
+                  </l>
+                  <l>
+                     <hi>To see a blockhead asse haue any wit.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="question">
+               <pb facs="tcp:177580:10"/>
+               <head>Where is Ginking gone?</head>
+               <lg>
+                  <l>
+                     <hi>Ginking</hi> iumpt, and <hi>Ginking</hi> leapt,</l>
+                  <l>
+                     <hi>Ginking</hi> thumpt, and <hi>Ginking</hi> reapt.</l>
+                  <l>Sowe he did not, as tis knowne:</l>
+                  <l>Why? then a reapt none of his owne?</l>
+                  <l>Then <hi>Ginking</hi> weepes, and <hi>Ginking</hi> mournes,</l>
+                  <l>That what he sweepes, he backe returnes.</l>
+                  <l>
+                     <hi>Ginking</hi> learne to vse thy owne,</l>
+                  <l>And do not barne what others mowne:</l>
+                  <l>For if thou do, learne this of mee,</l>
+                  <l>
+                     <hi>Ginking</hi> must a beggar bee.</l>
+                  <l>But tis not strange, let it suffise,</l>
+                  <l>
+                     <hi>Ginking</hi> neare was otherwise.</l>
+                  <l>When euery Bird her fether takes,</l>
+                  <l>Then <hi>Ginkings</hi> hart with sorrow akes</l>
+                  <l>Now tell me where is <hi>Ginking</hi> gone?</l>
+                  <l>To giue to euery man his owne.</l>
+                  <l>Poore <hi>Ginking</hi> thou hast made wise hand,</l>
+                  <l>To sowe and reape an others land:</l>
+                  <l>Trust to thy selfe, <hi>Ginking</hi> be wise,</l>
+                  <l>Men loue them selues, affection dies.</l>
+               </lg>
+               <lg>
+                  <head>Quip.</head>
+                  <l>
+                     <hi>Though</hi> Ginking <hi>be a foole, learne this of me,</hi>
+                  </l>
+                  <l>
+                     <hi>The world sayes there be more then he:</hi>
+                  </l>
+                  <l>
+                     <hi>Ʋnder this</hi> Ginking <hi>perceiue then,</hi>
+                  </l>
+                  <l>
+                     <hi>That most do toyle for other men:</hi>
+                  </l>
+                  <l>
+                     <hi>Are not all</hi> Ginkings <hi>then I pray the iudge,</hi>
+                  </l>
+                  <l>
+                     <hi>When one man doth become an others drudge.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="question">
+               <head>Who sleepes there?</head>
+               <lg>
+                  <l>A Man sleepes here, who when he doth awake,</l>
+                  <l>Hath a greeud conscience, and his hart doth ake:</l>
+                  <pb facs="tcp:177580:10"/>
+                  <l>Sorrow is his delight; God giue him ioy,</l>
+                  <l>That loue exileth to receiue annoy.</l>
+               </lg>
+               <lg>
+                  <l>Sighes are his comfort, and he foldes his armes,</l>
+                  <l>Strooking his beard, desiring still to die,</l>
+                  <l>Still calles on death, to end his worldly harmes,</l>
+                  <l>Defying life, as cause of miserie.</l>
+               </lg>
+               <lg>
+                  <l>He dreames on death: how sweete his torment is,</l>
+                  <l>How louingly death killes his worldly hart:</l>
+                  <l>And since sweete death thou canst but worke my misse,</l>
+                  <l>Come death I charge thee, end this earthly smart.</l>
+               </lg>
+               <lg>
+                  <l>At last one waking him, and he startes sore,</l>
+                  <l>Aloude he cryes, out death I do deny thee:</l>
+                  <l>The men by, that beleeud he would before,</l>
+                  <l>Choose rather death, then death so soone to flie thee.</l>
+               </lg>
+               <lg>
+                  <l>Now there opinions are, that all men dreame,</l>
+                  <l>And in their sleepe desire, what when they wake,</l>
+                  <l>They more detest; then what they do esteeme,</l>
+                  <l>Tis to no purpose any count to make.</l>
+               </lg>
+               <lg>
+                  <l>Come (sayes this sleepy man) lets drinke some wine,</l>
+                  <l>Dreames are but fansies, death is farre enough:</l>
+                  <l>What in my sleepe I wisht, I see this time,</l>
+                  <l>Is farre from purchase, and God speed the plough.</l>
+               </lg>
+               <lg>
+                  <head>Quip</head>
+                  <l>
+                     <hi>Fansies in sleepe, are pleasing when we wake,</hi>
+                  </l>
+                  <l>
+                     <hi>Such is the ioy in folly, that we take:</hi>
+                  </l>
+                  <l>
+                     <hi>But time will come, when some so sound shall sleepe,</hi>
+                  </l>
+                  <l>
+                     <hi>As neither dreames nor fancies rule can keepe:</hi>
+                  </l>
+                  <l>
+                     <hi>So shall this man, whose dreames such pleasure take,</hi>
+                  </l>
+                  <l>
+                     <hi>One day hee'l soundly sleepe and neuer wake.</hi>
+                  </l>
+               </lg>
+               <pb facs="tcp:177580:11"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:177580:11"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+            </div>
+            <div type="question">
+               <pb facs="tcp:177580:12"/>
+               <head>VVho's the Foole now?</head>
+               <lg>
+                  <l>Ile tell thee who: marke well, for this is true,</l>
+                  <l>It was my friend, that I must tell thee off:</l>
+                  <l>And when thou hearst me, say Who's the foole now?</l>
+                  <l>For such a iest is worthy of a scoff.</l>
+                  <l>Many seeme wise as long they had vs'd schooles,</l>
+                  <l>When in the end God knowes most seeme but fooles</l>
+               </lg>
+               <lg>
+                  <l>My friend was pleasant, drinking all the day,</l>
+                  <l>With huftie tuftie, let vs all be merrie,</l>
+                  <l>Forgetting how the time did passe away:</l>
+                  <l>Such is mans folly, making himselfe wearrie.</l>
+                  <l>But now attend, and I will tell the rest,</l>
+                  <l>How my friendes follie he could scarce disgest.</l>
+               </lg>
+               <lg>
+                  <l>When he was beaten with a Brewers washing bittle,</l>
+                  <l>Rr had in deed almost quite burst his thombe,</l>
+                  <l>Or had behelde the Diuell, where he did tipple,</l>
+                  <l>Or (the old word) was drunke, marke what did come.</l>
+                  <l>Thus it fell out, as he him selfe did say,</l>
+                  <l>He to the Curtaine went, to see a Play.</l>
+               </lg>
+               <lg>
+                  <l>His friendes went with him, and as wise as hee,</l>
+                  <l>Yet wiser as it chaunst, for he went reeling:</l>
+                  <l>A tottering world it was God wott to see</l>
+                  <l>My friend disguisde thus without sense or feeling.</l>
+                  <l>Here a fell downe, and vp againe God wott,</l>
+                  <l>Backward and forward staggring like a sott.</l>
+               </lg>
+               <lg>
+                  <l>A soberer man then he, or girle or boy,</l>
+                  <l>I know hot who; for he him selfe not knowes,</l>
+                  <l>Begins to looke into this goodly toy,</l>
+                  <pb facs="tcp:177580:12"/>
+                  <l>And to teach him wit, this deede at pleasure showes.</l>
+                  <l>Into his pocket diues, and being alone,</l>
+                  <l>Pursse, hat, cloake, frō my drunken friend was gone.</l>
+               </lg>
+               <lg>
+                  <l>But here's the Iest: my friend being rifled so,</l>
+                  <l>Straight had the wit to misse what he had lost,</l>
+                  <l>When all his wit kept not what he left so,</l>
+                  <l>But he was welcome to his tardie cost.</l>
+                  <l>Then vp he starts, his losse so much did feare him,</l>
+                  <l>He lookes, but all in vaine, no one was neare him.</l>
+               </lg>
+               <lg>
+                  <l>He sigh'd, he grond, and sayd he was vndunne,</l>
+                  <l>And with a heauie hart through drinke yet greeud,</l>
+                  <l>Mazde with his losse, he doth begin to runne,</l>
+                  <l>Home through the streete as one from death repreeud▪</l>
+                  <l>I am spoyld and robd sayes he, my clothes are gone.</l>
+                  <l>But all in vaine was all his too late mone.</l>
+               </lg>
+               <lg>
+                  <l>His friendes and I inquired of his losse,</l>
+                  <l>He tolde the manner how he drunke and slept:</l>
+                  <l>We rather smilde, then mourned at his crosse,</l>
+                  <l>Asking if he did want yeeres this t'haue kept?</l>
+                  <l>No, I was olde enough (quoth he) to doe it,</l>
+                  <l>But was not wise enough to looke vnto it.</l>
+               </lg>
+               <lg>
+                  <l>He that first drinkes away his mother wit,</l>
+                  <l>And after <gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>nders in the open ayre,</l>
+                  <l>To lo<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#murp" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>out with wisedome is vnfit:</l>
+                  <l>For w<gap reason="illegible" resp="#murp" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#murp" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>cast is in a drunkards care.</l>
+                  <l>W<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#murp" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ce too late I rue my vnkind losse,</l>
+                  <l>My <gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>t's againe restored by my crosse.</l>
+               </lg>
+               <lg>
+                  <l>My <gap reason="illegible" resp="#murp" extent="5 letters">
+                        <desc>•••••</desc>
+                     </gap>es were with me when to drinke I went,</l>
+                  <l>My <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>riendes did leaue me when I slept alone:</l>
+                  <pb facs="tcp:177580:13"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:177580:13"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:177580:14"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:177580:14"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:177580:15"/>
+                  <l>My friendes were with me when I money spent,</l>
+                  <l>But when this ill chaunce chaunced, then were gone,</l>
+                  <l>Is there such trust in friendes, then here I vow,</l>
+                  <l>They neare shall aske againe, Who's the foole now?</l>
+               </lg>
+               <lg>
+                  <head>Quip.</head>
+                  <l>
+                     <hi>A goodly Iest to iest at, Is it not?</hi>
+                  </l>
+                  <l>
+                     <hi>That one should loose vvhat he so hardly got:</hi>
+                  </l>
+                  <l>
+                     <hi>Patience a plaister that may cure this sore,</hi>
+                  </l>
+                  <l>
+                     <hi>But patience vvil ne'r helpe him to it more.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="question">
+               <head>He playes the Foole.</head>
+               <lg>
+                  <l>True it is, he playes the Foole indeed;</l>
+                  <l>But in the Play he playes it as he must:</l>
+                  <l>Yet when the Play is ended, then his speed</l>
+                  <l>Is better then the pleasure of thy trust:</l>
+                  <l>For he shall haue what thou that time hast spent,</l>
+                  <l>Playing the foole, thy folly to content.</l>
+               </lg>
+               <lg>
+                  <l>He playes the Wise man then, and not the Foole,</l>
+                  <l>That wisely for his lyuing so can do:</l>
+                  <l>So doth the Carpenter with his sharpe toole,</l>
+                  <l>Cut his owne finger oft, yet liues by't to.</l>
+                  <l>He is a foole to cut his limbe say I,</l>
+                  <l>But not so, with his toole to liue thereby,</l>
+               </lg>
+               <lg>
+                  <l>Then tis his case that makes him seeme a foole,</l>
+                  <l>It is in deed, for it is anticke made:</l>
+                  <l>Thus men waxe wise when they do goe to schoole,</l>
+                  <l>Then for our sport we thanke the Taylers trade,</l>
+                  <l>And him within the case the most of all,</l>
+                  <l>That seemes wise foolish, who a foole you call.</l>
+               </lg>
+               <lg>
+                  <l>Meete him abrode, and he is wise, mee thinkes,</l>
+                  <pb facs="tcp:177580:15"/>
+                  <l>In curtesie, behauiour, talke, or going,</l>
+                  <l>Of garment: eke when he with any drinkes,</l>
+                  <l>Then are men wise, their mony so bestowing.</l>
+                  <l>To learne by him one time, a foole to seeme,</l>
+                  <l>And twentie times for once, in good esteeme.</l>
+               </lg>
+               <lg>
+                  <l>Say I should meete him, and not know his name,</l>
+                  <l>What should I say, Yonder goes such a foole?</l>
+                  <l>I, fooles will say so; but the wise will aime</l>
+                  <l>At better thoughts: whom reason still doth rule.</l>
+                  <l>Yonder's the merry man, it ioyes me much,</l>
+                  <l>To see him ciuill, when his part is such.</l>
+               </lg>
+               <lg>
+                  <head>Quip.</head>
+                  <l>
+                     <hi>A merry man is often thought vnvvise,</hi>
+                  </l>
+                  <l>
+                     <hi>Yet mirth in modesty's loude of the vvise:</hi>
+                  </l>
+                  <l>
+                     <hi>Then say, should he for a foole goe?</hi>
+                  </l>
+                  <l>
+                     <hi>When he's a more foole that accountes him so.</hi>
+                  </l>
+                  <l>
+                     <hi>Many men descant on an others vvit,</hi>
+                  </l>
+                  <l>
+                     <hi>When they haue lesse themselues in doing it.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="question">
+               <head>A Poet Pawnde.</head>
+               <lg>
+                  <l>What did he pawne? his clothes or els his wit?</l>
+                  <l>Somewhat he pawnde, his neede to satisfie,</l>
+                  <l>But what it was, in troth I do not know it:</l>
+                  <l>Or whether he pawnd or no, I can not iustifie.</l>
+                  <l>Then how canst thou say thus, when tis not so,</l>
+                  <l>Harke to the reason I aledge or show.</l>
+               </lg>
+               <lg>
+                  <l>Writing these Embles on an idle time,</l>
+                  <l>Within my windowe where my house doth stand:</l>
+                  <l>Looking about, and studying for a Rime,</l>
+                  <l>I might beholde a Poet weakely man'd.</l>
+                  <pb facs="tcp:177580:16"/>
+                  <l>His Sonne I gesse it was a little Boy,</l>
+                  <l>But what long circumstaunce requires this toy.</l>
+               </lg>
+               <lg>
+                  <l>Into a Brokers house they went together,</l>
+                  <l>Both emptie handed I might see right well:</l>
+                  <l>Because I knew them both, I noted either.</l>
+                  <l>Yet will not name this man of whom I tell.</l>
+                  <l>Empty they went in, and when they came out,</l>
+                  <l>A bundell they brought foorth, well wrapt about.</l>
+               </lg>
+               <lg>
+                  <l>I askt the question, and it was a gadge,</l>
+                  <l>Newly redeemd: but what it was I know not</l>
+                  <l>He pawnd, but what a pawnd I am not of age</l>
+                  <l>To tell to any, and the pawne I saw not:</l>
+                  <l>What ere it was, I hold it farre vnfit,</l>
+                  <l>To say the Poets bundle was his wit.</l>
+               </lg>
+               <lg>
+                  <head>Quip.</head>
+                  <l>
+                     <hi>No matter what it was, the deed is past,</hi>
+                  </l>
+                  <l>
+                     <hi>He was not first that pawnd, nor is the last:</hi>
+                  </l>
+                  <l>
+                     <hi>Had it been his wiues wit, thus had you disgrast her,</hi>
+                  </l>
+                  <l>
+                     <hi>But a faire pawne did neuer shame his maister.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="question">
+               <head>What wisht hee?</head>
+               <lg>
+                  <l>I know not what he wisht, but I am sure,</l>
+                  <l>He had his wish, his hartes wish to ptocure,</l>
+                  <l>And yet he went without his hartes desier.</l>
+                  <l>How can this be but thou must be a lyer?</l>
+                  <l>What is a wish? Why wind, wanting his will.</l>
+                  <l>To this I yeeld, and yet am simple still.</l>
+                  <l>He wanted what he would, wishing to haue</l>
+                  <l>His honestie, being lost playing the knaue:</l>
+                  <l>And wishing without purchase, still I finde,</l>
+                  <l>His wish was nothing, but an idle winde.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:177580:16"/>
+                  <l>This wish he had, it was his owne before.</l>
+                  <l>Nay there you erre, therefore say so no more:</l>
+                  <l>His wish being winde, because it was in vaine,</l>
+                  <l>His winde being spent, neuer returnd againe.</l>
+                  <l>Therefore leaue chatt, agree with me in this,</l>
+                  <l>His winde was waste, he neuer had his wish.</l>
+                  <l>Nay though with wishes he was an ingroser,</l>
+                  <l>Yet in the end he did giue ore a loser:</l>
+                  <l>Because he spent his winde on such a toye,</l>
+                  <l>He lost more by it then he did enioye.</l>
+               </lg>
+               <lg>
+                  <head>Quip.</head>
+                  <l>
+                     <hi>True, but Ile haue my wish presently.</hi>
+                  </l>
+                  <l>
+                     <hi>He that wisht so, I doe wish hartely,</hi>
+                  </l>
+                  <l>
+                     <hi>That as he was a foole to want his will,</hi>
+                  </l>
+                  <l>
+                     <hi>So he may nothing loase, but be so still.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="question">
+               <head>Wht's neare her?</head>
+               <lg>
+                  <l>Her Smocke is neare her. I thats true indeed,</l>
+                  <l>Of outward thinges, it is her nearest weed.</l>
+                  <l>Nothing is nearer (I thinke) then her smocke.</l>
+                  <l>Yes, her sknn's nearer, that it is by cocke.</l>
+                  <l>That is a weede to, to keepe out the weather.</l>
+                  <l>Then nothing's nearer, we conclude togeather.</l>
+               </lg>
+               <lg>
+                  <head>Quip.</head>
+                  <l>
+                     <hi>Yes one thing's nearer then her smocke or skinne,</hi>
+                  </l>
+                  <l>
+                     <hi>Of which I speake not, but will keepe it in.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="question">
+               <head>VVhy lookes he angry?</head>
+               <lg>
+                  <l>One askes me why that man doth looke so sad?</l>
+                  <l>As if fell anger had possest his hart.</l>
+                  <l>Content thy selfe, What thinkst thou I am mad,</l>
+                  <l>To censure by the looke, and tell the smart?</l>
+                  <pb facs="tcp:177580:17"/>
+                  <l>No, wiser men then I may censure wronge:</l>
+                  <l>For what he ayles, cannot be tolde with tongue.</l>
+               </lg>
+               <lg>
+                  <l>But this I know, he curses and he sweares,</l>
+                  <l>He vexeth inwardly, but none knowes why:</l>
+                  <l>He grates his teeth, and round about he stares,</l>
+                  <l>Muttering to him selfe as men passe by.</l>
+                  <l>Some feare him, and do shun him as they passe,</l>
+                  <l>Others do holde him for a harebraind asse.</l>
+               </lg>
+               <lg>
+                  <l>Some sorts of men there are as nought can please,</l>
+                  <l>Others there be which any thing will like:</l>
+                  <l>To the first doth belong but little ease,</l>
+                  <l>The last will sooner take a blow then strike.</l>
+                  <l>Is not this strange? common men are so curious,</l>
+                  <l>Like which of these is he, that seemes so furious?</l>
+               </lg>
+               <lg>
+                  <l>Like to the first, whom nothing will content,</l>
+                  <l>He stormes at all, spurning the harmelesse earth:</l>
+                  <l>Foames like a Bore, and neuer is content,</l>
+                  <l>Carping at quiet, hating honest mirth.</l>
+                  <l>So end thy question: there is no one liues,</l>
+                  <l>That tells his griefe, or ease vnto it giues.</l>
+               </lg>
+               <lg>
+                  <head>Quip.</head>
+                  <l>
+                     <hi>As he is carelesse of all people still,</hi>
+                  </l>
+                  <l>
+                     <hi>So men are fearles of his froward will:</hi>
+                  </l>
+                  <l>
+                     <hi>But for to quiet this distempered elfe,</hi>
+                  </l>
+                  <l>
+                     <hi>The next way is, to let him please him selfe.</hi>
+                  </l>
+                  <l>
+                     <hi>Or as the prouerbe is, no man to minde him,</hi>
+                  </l>
+                  <l>
+                     <hi>But turne the buckle of his Belt behind him.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="question">
+               <pb facs="tcp:177580:17"/>
+               <head>VVhats a clocke?</head>
+               <lg>
+                  <l>One askes me whats a clocke, thinking indeede,</l>
+                  <l>That I am Iacke of clock-house, and can tell:</l>
+                  <l>He is a Iacke to thinke so, or to feede</l>
+                  <l>His humor, as the clapper doth the bell.</l>
+                  <l>I haue a Hand, but not a Dioll, I,</l>
+                  <l>Right it poyntes not, and tongues may lie.</l>
+               </lg>
+               <lg>
+                  <l>Then by the shaddow marke, or by the day,</l>
+                  <l>And tell me then for certaine whats a clocke:</l>
+                  <l>But that is farre more then a number may,</l>
+                  <l>For all haue shaddowes, but no one that strocke.</l>
+                  <l>How should they know the striking of a bell,</l>
+                  <l>When those that nothing know, can nothing tell.</l>
+               </lg>
+               <lg>
+                  <l>Goe to the Church and see, then tell me more.</l>
+                  <l>How should that be, that bidding seemeth od?</l>
+                  <l>When he doth hardly enter in the dore,</l>
+                  <l>According to his duetie, to serue God.</l>
+                  <l>Nay like enough, therefore be rulde by mee,</l>
+                  <l>Wilt thou know whats a clocke? then go and see.</l>
+               </lg>
+               <lg>
+                  <head>Quip.</head>
+                  <l>
+                     <hi>Worthy of commendations is this elfe,</hi>
+                  </l>
+                  <l>
+                     <hi>Who sent to see, bids him goe looke him selfe:</hi>
+                  </l>
+                  <l>
+                     <hi>How vaine it is then, to aske what's a clocke?</hi>
+                  </l>
+                  <l>
+                     <hi>Of one who for an answere, lendes a mocke.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="question">
+               <head>Are you there with your Beares?</head>
+               <lg>
+                  <l>One takes my penn and writes this question,</l>
+                  <l>As if I were a Beare-ward by profession.</l>
+                  <pb facs="tcp:177580:18"/>
+                  <l>O no, such Iestes are ill in their disiestion:</l>
+                  <l>God knowes, and all the world knows his transgression,</l>
+                  <l>Were I a Beare-ward, I would learne to byte,</l>
+                  <l>Because he set this Emblem in my sight.</l>
+               </lg>
+               <lg>
+                  <l>Or knowing I am faultie in such crime,</l>
+                  <l>Hath giuen this bitter pill for me to taste,</l>
+                  <l>To giue me warning gainst some other time,</l>
+                  <l>That I should mende my doinges in all haste:</l>
+                  <l>Tis taken so, and therefore Ile grow wise,</l>
+                  <l>Friendes warne like friendes, and let it <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o suffise.</l>
+               </lg>
+               <lg>
+                  <l>Or telling me of Beares, bewrayes his anger,</l>
+                  <l>For dreaming of them, tells of wrath indeed:</l>
+                  <l>Tis so, and I will thinke of it no longer,</l>
+                  <l>When I next see him, Ile make his braynes bleed:</l>
+                  <l>And with like question nearely in affiance,</l>
+                  <l>Tell him but this, that I haue seene the Lions.</l>
+               </lg>
+               <lg>
+                  <head>Quip.</head>
+                  <l>
+                     <hi>Tis good to doe so much, for harke thee brother,</hi>
+                  </l>
+                  <l>
+                     <hi>One doubtfull qustion doth expell an other:</hi>
+                  </l>
+                  <l>
+                     <hi>At that hee'l muse more then thou didst but now,</hi>
+                  </l>
+                  <l>
+                     <hi>For Lions and Beares frights witt from both of you.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="question">
+               <head>Who is happy?</head>
+               <lg>
+                  <l>Who is happie? Marry he that is ritch.</l>
+                  <l>O y'are disceiued, it is nothing so:</l>
+                  <l>You would be that way blest. Sir y'are a witch,</l>
+                  <l>You know my thoughts I, and I know thy woe.</l>
+                  <l>When thou art knowne rich, thou maist wel be bold</l>
+                  <l>Thy friendes will cut thy throate to haue thy gold.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:177580:18"/>
+                  <l>Then who is happy, let me heare of you,</l>
+                  <l>The strong man, meane you him? No he is weake,</l>
+                  <l>Strength is a blessing I can well alow.</l>
+                  <l>But not a happy blessing? Good sir speake.</l>
+                  <l>He that hath strong armes, legges, and limbs,</l>
+                  <l>Is like a bubble that in water swims.</l>
+               </lg>
+               <lg>
+                  <l>What, is the wise man happy? I, some wayes.</l>
+                  <l>It should be so, for which men practize schooles:</l>
+                  <l>Yet it fall<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> out with many novv a dayes,</l>
+                  <l>That ouer much witt makes a number fooles.</l>
+                  <l>Then fare well witt, because Ile not abuse thee.</l>
+                  <l>Come not at me, I know not how to vse thee.</l>
+               </lg>
+               <lg>
+                  <l>He that liues well, and dies well, I say still.</l>
+                  <l>But who is that? Nay when I know Ile tell thee:</l>
+                  <l>Then I am not the neare, I want my will.</l>
+                  <l>True, and thou must but harken what I will thee.</l>
+                  <l>No man shall answere one an others part,</l>
+                  <l>But each man for himselfe shall: O my hart!</l>
+               </lg>
+               <lg>
+                  <head>Quip.</head>
+                  <l>
+                     <hi>What, startst thou backe for feare? &amp; dost thou quake</hi>
+                  </l>
+                  <l>
+                     <hi>I see thou knowst no answere what to make.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="question">
+               <head>Who comes yonder?</head>
+               <lg>
+                  <l>Ile tell thee who: but prethee marke him well.</l>
+                  <l>See how he stares about, as one dispayring,</l>
+                  <l>And of his sorrowes I will something tell.</l>
+                  <l>Sometimes he strikes his brest as one ill faring.</l>
+                  <l>Wan, woe, and pale he lookes, as wanting life.</l>
+                  <l>Greeud like a kind man, that entombs his wise.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:177580:19"/>
+                  <l>Hath he losse at sea by Shipp? O no not so.</l>
+                  <l>Or on the land by fier? Tis not so well.</l>
+                  <l>Well do you tearme it, to attaine such woe?</l>
+                  <l>No trust me, I do thinke nought is more ill.</l>
+                  <l>That losse God sendes, and who so leaues it,</l>
+                  <l>As <hi>Iob</hi> did, shall with <hi>Iob,</hi> ten fould receiue it.</l>
+               </lg>
+               <lg>
+                  <l>What ayles he then? Now list and I will shew him.</l>
+                  <l>This man dispaires, is madd, and vext with griefe,</l>
+                  <l>Yet as thou thinkst not so vnfortunate, beshrow him:</l>
+                  <l>Not robd by sea or land, by fier or thiefe,</l>
+                  <l>But yonder comes the asse that nere was wise,</l>
+                  <l>For he has lost his money all at dice.</l>
+               </lg>
+               <lg>
+                  <head>Quip</head>
+                  <l>
+                     <hi>At dice in deed? a foole of fooles say I,</hi>
+                  </l>
+                  <l>
+                     <hi>That liues with paine, and doth in pleasure die:</hi>
+                  </l>
+                  <l>
+                     <hi>This be his guilt, mockt still of euery neigbour.</hi>
+                  </l>
+                  <l>
+                     <hi>For doing that vvhich quitteth not his labour.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="question">
+               <head>What haue I lost?</head>
+               <lg>
+                  <l>I cannot tell for certaine, yet Ile gesse.</l>
+                  <l>You had a thousand thinges that I haue seene.</l>
+                  <l>Now I meane that of late I did possesse.</l>
+                  <l>Of late I know not, what was lately seene?</l>
+                  <l>You had a faire Wife? nay I haue her still,</l>
+                  <l>And all such thinges I vse at wit and will.</l>
+               </lg>
+               <lg>
+                  <l>But I haue lost that nere shalbe recald,</l>
+                  <l>No gould can regaine what I carelesse lost.</l>
+                  <l>What is it money? No, or is forestald</l>
+                  <l>Your office? ouer bought by Knights o'th post?</l>
+                  <l>But these are nothing to my losse of late,</l>
+                  <l>By'll lucke I haue lost one eare off from my pate.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:177580:19"/>
+                  <head>Quip.</head>
+                  <l>
+                     <hi>God giue you ioy good sir, of such a crosse,</hi>
+                  </l>
+                  <l>
+                     <hi>It seemes by you it was a willing losse:</hi>
+                  </l>
+                  <l>
+                     <hi>If it be so, and you ioy in your crosses,</hi>
+                  </l>
+                  <l>
+                     <hi>God send such fooles euer to haue such losses.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="question">
+               <head>How shall I finde it?</head>
+               <lg>
+                  <l>Ile tell thee how to finde that eare againe.</l>
+                  <l>Children in shooting when they loose an Arrow</l>
+                  <l>In high growne or deepe grasse, omit no paine,</l>
+                  <l>But with their Bowes end rake and search it narrow.</l>
+                  <l>And when they bootlesse seeke and finde it not,</l>
+                  <l>After some sorrow, this amendes is got.</l>
+               </lg>
+               <lg>
+                  <l>An other shaft they shoote that direct way,</l>
+                  <l>As whilome they the first shot, and be plaine,</l>
+                  <l>Twentie to one, as I haue heard some say,</l>
+                  <l>The former Arrow may be found againe.</l>
+                  <l>So as you lost the first eare, gentle brother,</l>
+                  <l>Venture the second eare, to finde the tother.</l>
+                  <l>Nay soft and faire, to do that I am loth,</l>
+                  <l>So I may happen for to lose them both.</l>
+               </lg>
+               <lg>
+                  <head>Quip.</head>
+                  <l>
+                     <hi>Better lost then found, who will beweepe them,</hi>
+                  </l>
+                  <l>
+                     <hi>Fooles hauing eares, yet do want wit to keepe them.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="question">
+               <head>Who dyes soonest?</head>
+               <lg>
+                  <l>Not he that's sickest, for the sicke may liue.</l>
+                  <l>And outliue him that now is perfect well.</l>
+                  <l>Nor he that's wounded when the Surgins giue</l>
+                  <pb facs="tcp:177580:20"/>
+                  <l>Potions or playsters, that can griefe expell:</l>
+                  <l>Who then dies soonest? Faith I cannot tell,</l>
+                  <l>For no man hath a charter of his life:</l>
+                  <l>Simplest of all men, harke and note me well,</l>
+                  <l>The wife or husband, hee or else his wise,</l>
+                  <l>All is vncertaine, oft hath this been told,</l>
+                  <l>As soone the young Sheepe dieth, as the old:</l>
+                  <l>But no one die, so soone vpon the earth;</l>
+                  <l>As such who do possesse the shortest bre<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>th:</l>
+               </lg>
+               <lg>
+                  <head>Quip.</head>
+                  <l>
+                     <hi>Indeede thats so, but if thou wilt preuaile,</hi>
+                  </l>
+                  <l>
+                     <hi>When thy friende's dying, blow wind in his taile▪</hi>
+                  </l>
+                  <l>
+                     <hi>Yet to no reason's this, that doth in <gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>eason lurke,</hi>
+                  </l>
+                  <l>
+                     <hi>Because that then thou goest wrong way to worke▪</hi>
+                  </l>
+                  <l>
+                     <hi>Wrong way or right, twill neare out of my minde,</hi>
+                  </l>
+                  <l>
+                     <hi>As much preuailes before, as blowde behinde.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="question">
+               <head>VVhat wisht shee?</head>
+               <lg>
+                  <l>A Widdow wisht: harke and Ile tell thee what.</l>
+                  <l>Choyce of a thousand thinges. What thinges I pray?</l>
+                  <l>Content thy selfe man, and imagine that,</l>
+                  <l>Thinke what she wisht, and hit it if thou may.</l>
+                  <l>What, was she ritch? I so a number say,</l>
+                  <l>Tis hard to iumpe with thee in what she would,</l>
+                  <l>For women often wish not what they should.</l>
+               </lg>
+               <lg>
+                  <l>She wisht a Husband that was ritch like her.</l>
+                  <l>That wealth to wealth were ioynd: was it not so?</l>
+                  <l>Although in hart she could hit nothing neare.</l>
+                  <l>Then she wisht wit, to gouerne it? Fie no.</l>
+                  <l>Then she wisht health, t'enioy it? Yet ye go.</l>
+                  <pb facs="tcp:177580:20"/>
+                  <l>Farre from her meaning: yet you came so neare,</l>
+                  <l>As you will hit it by and by I feare.</l>
+               </lg>
+               <lg>
+                  <l>Othen I haue it: Women couet honner.</l>
+                  <l>Honour is glorious; yet you want her minde.</l>
+                  <l>Now fortune, yeeld her wish to light vpon her,</l>
+                  <l>For I am sencelesse in her wish, and blind.</l>
+                  <l>I can not thinke her thought, how shee's inclind:</l>
+                  <l>So wilde are women in their thoughts and deedes,</l>
+                  <l>As no wise man knowes where their humour breedes.</l>
+               </lg>
+               <lg>
+                  <l>Now I will answere thee what wish she craude,</l>
+                  <l>Not gold (she had enough) nor wit to keepe it:</l>
+                  <l>For when some thought she spent, she nearely <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aude,</l>
+                  <l>And couetously together would she sweepest:</l>
+                  <l>Let them alone, too well can women heapest.</l>
+                  <l>All wishes set a apart her eye being pleasde,</l>
+                  <l>Her wish is graunted, and her hart is eazde.</l>
+               </lg>
+               <lg>
+                  <head>Quip.</head>
+                  <l>
+                     <hi>Her eye to please is endlesse, not to do,</hi>
+                  </l>
+                  <l>
+                     <hi>Whose scope, no power can compasse therevnto:</hi>
+                  </l>
+                  <l>
+                     <hi>Well, let her wish, but nere relicude thereby,</hi>
+                  </l>
+                  <l>
+                     <hi>Whose bellyes sooner pleasd, then is her eye.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="question">
+               <head>Who couets glorie?</head>
+               <lg>
+                  <l>He that is nobly borne, couets no glory,</l>
+                  <l>Because his birth affordes his mindes desire.</l>
+                  <l>The Begger hanges the head, and still is sorry,</l>
+                  <l>Gaping with open mouth, and would aspire:</l>
+                  <l>But oft it prooues, he that buildes on supposes,</l>
+                  <l>As the saying is: all couets, and all loses.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:177580:21"/>
+                  <l>Who swims in Silkes? The Begger, who is prowde.</l>
+                  <l>The Begger too. And who is loftie minded?</l>
+                  <l>Why still the Begger, he would be alowde</l>
+                  <l>To be in glorie: but his thoughts are blinded.</l>
+                  <l>Yes, he will haue his will, or all to wracke,</l>
+                  <l>Heele starue his bellie, but heele cloth his backe.</l>
+               </lg>
+               <lg>
+                  <l>Who's this that comes? He is a Gentleman.</l>
+                  <l>No, y'are deceiued, a gentle Begger rather.</l>
+                  <l>So braue he is, that none discerne him can:</l>
+                  <l>Yet this is he that once denide his father.</l>
+                  <l>So proude he is, that seeking glorie still,</l>
+                  <l>Knowes not his friends, no nor him selfe scarce will.</l>
+               </lg>
+               <lg>
+                  <head>Quip.</head>
+                  <l>
+                     <hi>Well, let him still be subiect to this cursse,</hi>
+                  </l>
+                  <l>
+                     <hi>A proude hart ietteth with a beggers pursse:</hi>
+                  </l>
+                  <l>
+                     <hi>No Gentleman, although he iett so braue,</hi>
+                  </l>
+                  <l>
+                     <hi>But rather be he tearmde a gentle Knaue.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="question">
+               <head>VVhat is shee?</head>
+               <lg>
+                  <l>What is that Woman: Sir she was a Mayde.</l>
+                  <l>O, but she is not now. How happens this?</l>
+                  <l>Yes sir she is, but therewith ill apayde:</l>
+                  <l>Mayde is she, no Mayde by one deede amisse.</l>
+                  <l>In deede, one deede which lately for she did,</l>
+                  <l>From Maydes estate I must her needes forbid.</l>
+               </lg>
+               <lg>
+                  <l>Is she a Wife? neither, not so blessed,</l>
+                  <l>That honour last leape yeere escapt her too.</l>
+                  <l>What, is sh'a Widdow, late by death distressed?</l>
+                  <l>O no, nor that way wrongde: I know not how,</l>
+                  <l>Onely thus much I say, and talke no more,</l>
+                  <l>Nor mayde, wife, widdow, but a common whore.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:177580:21"/>
+                  <head>Quip</head>
+                  <l>
+                     <hi>O beautie thou art wrongd thus euery hower,</hi>
+                  </l>
+                  <l>
+                     <hi>Fro which this loues, thou'lt vanish like a flower:</hi>
+                  </l>
+                  <l>
+                     <hi>And since tis so, this then became her thrall,</hi>
+                  </l>
+                  <l>
+                     <hi>Correction serues to quittance her for all.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="question">
+               <head>VVhat ayles that Damsell?</head>
+               <lg>
+                  <l>What, is she sicke? no she is lustie and well:</l>
+                  <l>Yet some thing is amisse, or I am madd.</l>
+                  <l>True sir, but what's amisse thats strange to tell.</l>
+                  <l>None but her selfe knowes why she is so sadd.</l>
+                  <l>Yet men may gesse. True sir, &amp; when th'haue done,</l>
+                  <l>They'le be as wise as when they first begun.</l>
+               </lg>
+               <lg>
+                  <l>A Iewrie, howe! for we will know her griefe,</l>
+                  <l>Twelue women comes and calles her state in question.</l>
+                  <l>What is she pinde sayes one, wanting reliefe?</l>
+                  <l>Her fatt flesh tels her to haue good disgestion.</l>
+                  <l>For, lesse I be deceiude, this Mayde is shee,</l>
+                  <l>That eates more at one meale, then some at three.</l>
+               </lg>
+               <lg>
+                  <l>What, is she sullen? No she laughes and smiles,</l>
+                  <l>And that bewrayes her minde is onely quiet.</l>
+                  <l>What, has she wrencht her foote with leaping stiles?</l>
+                  <l>No, she was nere so nimbly fraught with riot.</l>
+                  <l>Yet let me tell you, she hath stept amisse:</l>
+                  <l>Then gently iudge her sorrow what it is.</l>
+               </lg>
+               <lg>
+                  <head>Quip.</head>
+                  <l>
+                     <hi>And is it so in deede: this be her quip,</hi>
+                  </l>
+                  <l>
+                     <hi>Giue her her due, and let her feele the whip.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="question">
+               <pb facs="tcp:177580:22"/>
+               <head>What is light?</head>
+               <lg>
+                  <l>Fethers are light who lightly in the winde,</l>
+                  <l>wanders with nimble flying in the ayre.</l>
+                  <l>Corke to is light, whose lightnes many finde</l>
+                  <l>To be so light as it hath no compare:</l>
+                  <l>But many thinges are light, yet none so much</l>
+                  <l>As Women kind, who haue a slipprie tuch.</l>
+               </lg>
+               <lg>
+                  <l>What can be lighter then a sillie Maide,</l>
+                  <l>That is vnlightned of her mayden-head?</l>
+                  <l>Was it so heauie? she was ouer-waide.</l>
+                  <l>It was so heauie, yet its lightly fled.</l>
+                  <l>It lightly went: but wishes are in vaine,</l>
+                  <l>Nor light nor heauie will it come againe.</l>
+               </lg>
+               <lg>
+                  <l>Is a good name light, that its lightly lost?</l>
+                  <l>It should seeme so for weare it otherwise,</l>
+                  <l>The burthen would be carryed with lesse cost:</l>
+                  <l>But lightnes is not thought on in our eyes.</l>
+                  <l>Our clothes we weare are light, because we vse them</l>
+                  <l>But heauie in the Winter, to refuse them.</l>
+               </lg>
+               <lg>
+                  <l>Imagine then all seasons are alike,</l>
+                  <l>And that there is no Winter, but all Summer:</l>
+                  <l>When for our ease we walke this stroke we strike.</l>
+                  <l>You Mayde too heauie a burthen hath vndone her:</l>
+                  <l>And therefore in hot Summer, to shun heate,</l>
+                  <l>She goes so light of body, loth to sweate.</l>
+               </lg>
+               <lg>
+                  <l>That woman hauing names enough to vse,</l>
+                  <l>Will not be loden with too great a waight:</l>
+                  <l>A good name is intollerable: choose</l>
+                  <pb facs="tcp:177580:22"/>
+                  <l>A lighter carriage, and an easiar fraight,</l>
+                  <l>Rather then be a heauie honest woman more,</l>
+                  <l>For lightnes, be esteemde an arrant whore.</l>
+               </lg>
+               <lg>
+                  <l>And let not men be heauie laden th<gap reason="illegible" resp="#murp" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                  </l>
+                  <l>But to be lightly clothde: sie, tis too <gap reason="illegible" resp="#murp" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </l>
+                  <l>To loade their backes with burthens dangerous,</l>
+                  <l>To be orecloyde: what, do you thinke men mad?</l>
+                  <l>No, rather let all men refuse no paine.</l>
+                  <l>Till they haue eazde their burthens in Long-lane.</l>
+               </lg>
+               <lg>
+                  <head>Quip.</head>
+                  <l>
+                     <hi>I'low thy iudgement, for they that do so,</hi>
+                  </l>
+                  <l>
+                     <hi>I must confesse in Summer lightly go,</hi>
+                  </l>
+                  <l>
+                     <hi>But in the Winter of their time to come,</hi>
+                  </l>
+                  <l>
+                     <hi>That lightnes will turne heauie vnto some:</hi>
+                  </l>
+                  <l>
+                     <hi>This be their quip, wherewith none can dispence,</hi>
+                  </l>
+                  <l>
+                     <hi>Lightly liue, but dye with heauie conscience.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="question">
+               <head>Wher's Tarleton?</head>
+               <lg>
+                  <l>One askes where <hi>Tarleton</hi> is, yet knowes hee's dead.</l>
+                  <l>Foole, sayes the other, who can tell thee that?</l>
+                  <l>Asse, quoth the first, I can: bow downe thy head,</l>
+                  <l>Lend but an eare and listen. Sir, to what?</l>
+                  <l>Ist come to Sir, quoth he, euen how twas Foole,</l>
+                  <l>One Asse can with an other beare much rule.</l>
+               </lg>
+               <lg>
+                  <l>Well, Asse or Foole, the second sayes, go on:</l>
+                  <l>I say hee's dead. I true, and so say I.</l>
+                  <l>And yet a liues too, though some say hee's gon.</l>
+                  <l>Till you approue this, I must say you lie.</l>
+                  <l>Lie, quoth the first, the stab with that must go,</l>
+                  <l>I do not say you lie, I say I must say so.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:177580:23"/>
+                  <l>A Collier after <hi>Tarletons</hi> death did talke,</l>
+                  <l>And sayd, he heard some say that he was dead:</l>
+                  <l>A simple man that knew not Cheese from Chaulke,</l>
+                  <l>Yet simple men must toyle in wise mens stead.</l>
+                  <l>Vnto the Play he came to see him there,</l>
+                  <l>When all was done, still was he not the nere.</l>
+               </lg>
+               <lg>
+                  <l>He calles a loude, and sayd that he would see him,</l>
+                  <l>For well he knew it was but rumourd prate:</l>
+                  <l>The people laught a good, and wisht to free him,</l>
+                  <l>Because of further mirth from this debate.</l>
+                  <l>The Collier sayd, the squint of <hi>Tarletons</hi> eie,</l>
+                  <l>Was a sure marke that he should neuer die.</l>
+               </lg>
+               <lg>
+                  <l>Within the Play past, was his picture vsd,</l>
+                  <l>Which when the fellow saw, he laught aloud:</l>
+                  <l>A ha, quoth he, I knew we were abusde,</l>
+                  <l>That he was kept away from all this croude.</l>
+                  <l>The simple man was quiet, and departed,</l>
+                  <l>And hauing seene his Picture, was glad harted.</l>
+               </lg>
+               <lg>
+                  <l>So with thy selfe, it seemes, that knowes he's dead,</l>
+                  <l>And yet desires to know where <hi>Tarleton</hi> is:</l>
+                  <l>I say he liues, yet you say no: your head</l>
+                  <l>Will neuer thinke, ne yet beleeue halfe this.</l>
+                  <l>Go too, hee's gone, and in his bodyes stead,</l>
+                  <l>His name will liue long after he is dead.</l>
+               </lg>
+               <lg>
+                  <l>So, with the Collier I must thinke he liues,</l>
+                  <l>When but his name remaines in memorie:</l>
+                  <l>What credite can I yeelde to such repreeues,</l>
+                  <l>When at the most, tis but vncertaintie.</l>
+                  <l>Now am I a foole in deed? so let that passe,</l>
+                  <l>Before I goe, Ile quit thee with the asse.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:177580:23"/>
+                  <l>What, is his name Letters, and no more?</l>
+                  <l>Can Letters liue, that breathe not, nor haue life?</l>
+                  <l>No, no, his Fame liues, who hath layde in store</l>
+                  <l>His actes and deedes: therefore conclude this strife,</l>
+                  <l>Else all that heare vs, striue and breed this mutenie,</l>
+                  <l>Will bid vs keepe the Colliar foole for company.</l>
+               </lg>
+               <lg>
+                  <l>Well, to resolue this question, yet say I,</l>
+                  <l>That <hi>Tarletons</hi> name is heare, though he be gone.</l>
+                  <l>You say not, Whors his Body that did die?</l>
+                  <l>But, Where is <hi>Tarleton?</hi> Whers his name alone?</l>
+                  <l>His Name is heere: tis true, I credite it.</l>
+                  <l>His Body's dead, few Clownes will haue his wit.</l>
+               </lg>
+               <lg>
+                  <head>Quip.</head>
+                  <l>
+                     <hi>Though he be dead, dispaire not of thy wisedome,</hi>
+                  </l>
+                  <l>
+                     <hi>What wit thou hast not yet, in time may come:</hi>
+                  </l>
+                  <l>
+                     <hi>But thus we see, two Dogges striue for a bone,</hi>
+                  </l>
+                  <l>
+                     <hi>Bout him that had wit, till them selues haue none.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="question">
+               <head>VVhat is desier?</head>
+               <lg>
+                  <l>Desier, is but a motion of the minde</l>
+                  <l>That growes by follie, not encrease of wit:</l>
+                  <l>If men were wise, they would not wish to finde</l>
+                  <l>That, which vnto their states is farre vnfit.</l>
+                  <l>The King is proud, and he would be a God,</l>
+                  <l>To shun the toyle of earth: thats his abode.</l>
+               </lg>
+               <lg>
+                  <l>The poore man would be mightie: more foole he,</l>
+                  <l>For if it be a sorrow to be poore,</l>
+                  <l>To be molested night and day with glorie,</l>
+                  <l>Would be a trouble and a terrour more:</l>
+                  <l>So that Desier, is but an inward motion,</l>
+                  <l>Bred with disgrace, and nurst by lewd deuotion.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:177580:24"/>
+                  <head>Quip.</head>
+                  <l>
+                     <hi>Desire no more then thou canst tollerate,</hi>
+                  </l>
+                  <l>
+                     <hi>Least like the Asse, thy burthen harme thy state:</hi>
+                  </l>
+                  <l>
+                     <hi>To desier much, and nothing to enioy, e</hi>
+                  </l>
+                  <l>
+                     <hi>Is like an olde mans beard, on a young boy:</hi>
+                  </l>
+                  <l>
+                     <hi>Ill seeming to the eye: then shun desir,</hi>
+                  </l>
+                  <l>
+                     <hi>Least thou best thought a foole, so to aspire.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="question">
+               <head>VVho dyed first?</head>
+               <lg>
+                  <l>Not he that first was borne, I am sure of that.</l>
+                  <l>Who then I pre-thee? Faith I do not know.</l>
+                  <l>Harken to me, and I will tell thee what.</l>
+                  <l>What is it thou wilt tell me? pre-thee show</l>
+                  <l>Who first did die, good do, or else I haue wrong.</l>
+                  <l>Who ere dide first, I feare thou liu'st too long.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Caine</hi> slew his brother <hi>Abel,</hi> I do reed.</l>
+                  <l>The worse lucke his to die by his owne brother.</l>
+                  <l>The better cause hast thou to take more heede:</l>
+                  <l>For thou art one, and I must be the other.</l>
+                  <l>What wilt thou kill mee? Say I should do so,</l>
+                  <l>Twere but a friendly part, to kill my foe.</l>
+               </lg>
+               <lg>
+                  <l>How haue I wrongd thee, let me know but this?</l>
+                  <l>How canst thou chose but wrong me with much spight,</l>
+                  <l>When all the world knowes thou hast done amisse?</l>
+                  <l>For to thy selfe yet thou didst neuer right.</l>
+                  <l>Then I will right my owne wronges, foolish elfe,</l>
+                  <l>When as I list, Ile quickly kill my selfe.</l>
+               </lg>
+               <lg>
+                  <head>Quip.</head>
+                  <l>
+                     <hi>True, is it so in deede, the more's my sorrow,</hi>
+                  </l>
+                  <l>
+                     <hi>Men can not say that they will liue to morrovv:</hi>
+                  </l>
+                  <l>
+                     <hi>But die they vvill to morrovv or to night,</hi>
+                  </l>
+                  <l>
+                     <hi>Such haste some make to hell, the more the spight.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:177580:24"/>
+                  <head>Quip</head>
+                  <l>
+                     <hi>Then since tis so, and that you two agree,</hi>
+                  </l>
+                  <l>
+                     <hi>Vse your ovvne vvilles, and hange both for me.</hi>
+                  </l>
+                  <l>Abel <hi>vvas able to endure that banging,</hi>
+                  </l>
+                  <l>
+                     <hi>And you are able both to endure a hanging.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="question">
+               <head>Whers the Deuill?</head>
+               <lg>
+                  <l>One askes me where the Deuill is? Much I muse</l>
+                  <l>What makes this madd man so his name to vse.</l>
+                  <l>It may be he would bargaine with the spirit,</l>
+                  <l>For much he hath that some would faigne inherit.</l>
+                  <l>If it be so, much good may do his hart,</l>
+                  <l>How ere he deales, thers few will take his part.</l>
+               </lg>
+               <lg>
+                  <l>I say he is, or else should be, in hell,</l>
+                  <l>True, he should be there: but I can tell</l>
+                  <l>Hee's now not there, hee's otherwayes employde,</l>
+                  <l>He keepes his Christmas other where abrode.</l>
+                  <l>It may so be, I know not certainlie:</l>
+                  <l>None knowes, but you may be his secretarie.</l>
+               </lg>
+               <lg>
+                  <l>If on the earth he be, Ile tell you where,</l>
+                  <l>In an Vsurers bagge of money: Is he there?</l>
+                  <l>For money ill got, bringes the deuill and all.</l>
+                  <l>A number say so, though their skill be small.</l>
+                  <l>Yet you are wide, and know not his abode,</l>
+                  <l>In the Cittie he is, some saw him where he rode.</l>
+               </lg>
+               <lg>
+                  <l>Hee's got into a boxe of Womens paint,</l>
+                  <l>And there he lyes, bathing him selfe so quaint,</l>
+                  <l>Lockt vp as close as may be in her chist,</l>
+                  <pb facs="tcp:177580:25"/>
+                  <l>All this is right, beleeue it they that list.</l>
+                  <l>Where pride is, thers the Diuell: all this is vaine.</l>
+                  <l>Yet still you misse, then reckon once againe.</l>
+               </lg>
+               <lg>
+                  <l>I am right glad I misse, and came not neare him,</l>
+                  <l>It is my whole desier still to feare him:</l>
+                  <l>Hee's one that with whom I haue had no dealing,</l>
+                  <l>And therefore of his kindnes haue small feeling</l>
+                  <l>O foole, I tell thee where he is: shun euill,</l>
+                  <l>For where God is not, there is sure the Deuill.</l>
+               </lg>
+               <lg>
+                  <l>Where is not God? I pray thee tell me that?</l>
+                  <l>Not heere I feare, our mindes agree so pat,</l>
+                  <l>That medling with the Deuill, who neare was kinde,</l>
+                  <l>It shewes the follies of a wauering minde</l>
+                  <l>Beshrew thy hart, first that didst aske this doubt,</l>
+                  <l>For one bad question, driues two good thoughts out.</l>
+               </lg>
+               <lg>
+                  <head>Quip.</head>
+                  <l>
+                     <hi>Fooles talke like fooles, while wise men sit</hi>
+                  </l>
+                  <l>
+                     <hi>Wisely to descant on an others wit:</hi>
+                  </l>
+                  <l>
+                     <hi>What need they meadle where th'haue nought to do,</hi>
+                  </l>
+                  <l>
+                     <hi>This shewes their folly, and their weaknes to:</hi>
+                  </l>
+                  <l>
+                     <hi>But now I see all reason set a part,</hi>
+                  </l>
+                  <l>
+                     <hi>The Deuill's not in hell, but in his hart.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="question">
+               <head>Why is he drunke?</head>
+               <lg>
+                  <l>I know not why, vnlesse I knew his minde,</l>
+                  <l>But many besides him is thus inclinde.</l>
+                  <l>Perchaunce for company he is disguisde,</l>
+                  <l>Or tis his nature to be thus suffisde:</l>
+                  <l>Or tasting good Beere neuer found before,</l>
+                  <l>Against his will is drunke of his owne skore.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:177580:25"/>
+                  <l>It may be his weake braine can beare no drinke:</l>
+                  <l>I am not of your minde, so well to thinke.</l>
+                  <l>Then knowing his owne weaknes, he should shun,</l>
+                  <l>Thus to be loathsome, as he has begun.</l>
+                  <l>How ere it is I know not, but these people,</l>
+                  <l>Are all brainde with a Brewers washing beetle.</l>
+               </lg>
+               <lg>
+                  <head>Quip.</head>
+                  <l>
+                     <hi>Company causeth Cuckoldes, most men say,</hi>
+                  </l>
+                  <l>
+                     <hi>But shall this prouerbe beare it so away.</hi>
+                  </l>
+                  <l>
+                     <hi>I, it must needes: for it is helde least ieobardie,</hi>
+                  </l>
+                  <l>
+                     <hi>When men go to the Deuill for companie.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="question">
+               <head>He eates much.</head>
+               <lg>
+                  <l>True, he eates much, but drinketh ten times more.</l>
+                  <l>How know you that? I know it by his skore.</l>
+                  <l>What, doth he pay his skore? yes suer he doth.</l>
+                  <l>Then tis no matter, let him feed his tooth.</l>
+                  <l>But you say that he drinkes more then he eates.</l>
+                  <l>I, so they say: the Brewer the more gets.</l>
+                  <l>Tush let vs peace, in vaine we spend our winde,</l>
+                  <l>Gluttons will feed, &amp; drunkards drinke them blinde.</l>
+               </lg>
+               <lg>
+                  <head>Quip</head>
+                  <l>
+                     <hi>He that eates much and drinketh out of measure,</hi>
+                  </l>
+                  <l>
+                     <hi>May eate his clothes off, and drinke hence his treasure</hi>
+                  </l>
+                  <l>
+                     <hi>Yet in the ende count but what he doth get,</hi>
+                  </l>
+                  <l>
+                     <hi>Drinke till he dies, he drinkes not out of debt.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="question">
+               <head>He sleepes too much.</head>
+               <lg>
+                  <l>Those that sleepe much, eate little, so I say.</l>
+                  <l>And some poore soules that haue no coyne to buy meat</l>
+                  <l>Faigne them selues sicke, and go to bed straight way,</l>
+                  <pb facs="tcp:177580:26"/>
+                  <l>As though their queasie stomackes did denie meate.</l>
+                  <l>That when the Doctor comes to giue a Potion,</l>
+                  <l>They drinke the cup and all, with true deuotion.</l>
+               </lg>
+               <lg>
+                  <l>Then sayes the Doctor, he will straight wayes die,</l>
+                  <l>Because a greedy stomacke telles no lesse:</l>
+                  <l>The hungry patient he is fed thereby,</l>
+                  <l>That being well, could neuer haue redresse.</l>
+                  <l>If it be so, something my muse can tell,</l>
+                  <l>Better for poore be sicke twice, then once well.</l>
+               </lg>
+               <lg>
+                  <head>Quip.</head>
+                  <l>
+                     <hi>He that for greedines, desireth ill,</hi>
+                  </l>
+                  <l>
+                     <hi>And ioyes in sicknesse to get succour still:</hi>
+                  </l>
+                  <l>
+                     <hi>Better say I, such hollow hartes be dead,</hi>
+                  </l>
+                  <l>
+                     <hi>Then liue to rob the lyuing of their bread.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="question">
+               <head>Do it, and dallie not.</head>
+               <lg>
+                  <l>If thou wilt do it, let it straight be done,</l>
+                  <l>In lingring is ill prospring many say:</l>
+                  <l>Goe through with that, which thou hast well begun,</l>
+                  <l>I, to do so is good, if a man may.</l>
+                  <l>With that is well begun, do it, but dallie not,</l>
+                  <l>But that is ill begun, dallie, but doe it not</l>
+               </lg>
+               <lg>
+                  <l>You rime well in your reason, do ye not?</l>
+                  <l>If it be ill, Ile giue it ore betime,</l>
+                  <l>Ile dallie in my deede, and know it not,</l>
+                  <l>Because you mocke me for one simple Rime.</l>
+                  <l>I see by this, in great things you will blame me,</l>
+                  <l>When in so slight a matter, you would shame me.</l>
+               </lg>
+               <lg>
+                  <l>I say againe, doe it and dallie not.</l>
+                  <pb facs="tcp:177580:26"/>
+                  <l>I say againe, my feare bids mee keepe backe.</l>
+                  <l>Foole, wilt thou feare? who so doth, he preuailes not.</l>
+                  <l>What more disgrace, then when a man growes slacke.</l>
+                  <l>Should Souldiers when the foes are ten to one,</l>
+                  <l>Feare and keepe backe, and let the fight alone.</l>
+               </lg>
+               <lg>
+                  <l>Shall children finding pinnes by chaunce in bread,</l>
+                  <l>Giue ore to eate for feare, so starue and die?</l>
+                  <l>Shall men in doubtfull Law, keepe backe and dread,</l>
+                  <l>And let their actions slipp, and lose thereby?</l>
+                  <l>I am commaunded to serue God, and shall I not?</l>
+                  <l>Yes but I will, Ile do't and dallie not.</l>
+               </lg>
+               <lg>
+                  <head>Quip.</head>
+                  <l>
+                     <hi>But men will say, theyle strange thinges do.</hi>
+                  </l>
+                  <l>
+                     <hi>When they will let't alone, and dally to.</hi>
+                  </l>
+                  <l>
+                     <hi>I owe a thousand pound vpon a Bande,</hi>
+                  </l>
+                  <l>
+                     <hi>At such a day tis due I vnderstande:</hi>
+                  </l>
+                  <l>
+                     <hi>I should in conscience pay, and shall I not?</hi>
+                  </l>
+                  <l>
+                     <hi>Then pay it for me: doo't and dally not.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="question">
+               <head>He washes cleane.</head>
+               <lg>
+                  <l>Thou art disceaude to say, he washes cleane,</l>
+                  <l>I rather thinke that boy, he washes sowle.</l>
+                  <l>Weake is thy wit, thou knowst not what I meane,</l>
+                  <l>And thou dost rubbe like a false byast Bowle.</l>
+                  <l>Then we must law I see, and fall at square,</l>
+                  <l>Men that agree not, euer be at iarre.</l>
+               </lg>
+               <lg>
+                  <l>Why doth he wash? tell me but that I pre-thee?</l>
+                  <l>Because his face is foule, to wash it cleane:</l>
+                  <l>He washes foule, then his foule face is durtie,</l>
+                  <pb facs="tcp:177580:27"/>
+                  <l>And he will wash it faire: ist so ye meane?</l>
+                  <l>Well then, the more he washes, more is he</l>
+                  <l>Cleaner, then fouler, as each eye may see.</l>
+               </lg>
+               <lg>
+                  <l>Againe I tell thee that thou dost mistake.</l>
+                  <l>My wit is cleane gone, for to answere thee,</l>
+                  <l>And know no way an answere for to make,</l>
+                  <l>When right or wrong thou houldst for veritie.</l>
+                  <l>Shall we be friendes still, be it foule or cleane?</l>
+                  <l>I, to that ende I speake, and so I meane.</l>
+               </lg>
+               <lg>
+                  <head>Quip.</head>
+                  <l>
+                     <hi>Well fare men still that such a quarrell endes,</hi>
+                  </l>
+                  <l>
+                     <hi>Who falling out with talke, will talke them friendes:</hi>
+                  </l>
+                  <l>
+                     <hi>The foule, them selues haue washed ouer againe,</hi>
+                  </l>
+                  <l>
+                     <hi>All the Tems water cannot wash so cleane.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="question">
+               <head>VVhat smels sweete?</head>
+               <lg>
+                  <l>Muske, Ciuet, Amber, and a thousand thinges</l>
+                  <l>Long to rehearse, from which sweete odours springes:</l>
+                  <l>Flowers are sweete, and sweetest in my minde:</l>
+                  <l>For they are sweete by nature and by kinde.</l>
+                  <l>Faire Women that in boosoms nosegayes weare,</l>
+                  <l>Kisse but their lippes, and say what sent they beare.</l>
+                  <l>Their breath perfume, their flowers sweetly smell,</l>
+                  <l>Both ioyned to her lippes, do exceeding well.</l>
+               </lg>
+               <lg>
+                  <head>Quip.</head>
+                  <l>
+                     <hi>Tis sweete of all sweetes: yet I needes must chide thee,</hi>
+                  </l>
+                  <l>
+                     <hi>Thou smelst so Svveete, thers no man can abide thee.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="question">
+               <head>Why vveares he Bootes?</head>
+               <lg>
+                  <l>Why weares he Bootes and rides not, pre-thee tell?</l>
+                  <l>Three dayes before they ride, some men do so:</l>
+                  <pb facs="tcp:177580:27"/>
+                  <l>But he hath neither Horse nor credite. Thats not well,</l>
+                  <l>And therefore will not ride: yet thus doth go.</l>
+                  <l>It is to mocke the worlde, as many do:</l>
+                  <l>Many thinkes they haue Horse and credite to.</l>
+               </lg>
+               <lg>
+                  <l>It may be that his Shooes are put to mending,</l>
+                  <l>And weares his Bootes vpon necessitie:</l>
+                  <l>So for to ride, he hath no such entending,</l>
+                  <l>But stayes the Coblers leysure willingly.</l>
+                  <l>Nor so, nor so, this man so strangely goes,</l>
+                  <l>Wearing his Bootes, because he hath no Hose.</l>
+               </lg>
+               <lg>
+                  <head>Quip.</head>
+                  <l>
+                     <hi>Tis likely so, and now I see his drift,</hi>
+                  </l>
+                  <l>
+                     <hi>I gesse by him, thou hast made such a shift.</hi>
+                  </l>
+                  <l>
+                     <hi>How ere it is, yet if the worst do fall,</hi>
+                  </l>
+                  <l>
+                     <hi>Better a bad shyft made, then none at all.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="question">
+               <head>VVhy sweates he so?</head>
+               <lg>
+                  <l>He puffes, and blowes, and sweates, What has he done?</l>
+                  <l>What makes this young man hastely to runne?</l>
+                  <l>It may be he hath stolne, and got some boote,</l>
+                  <l>And for to scape makes haste, I see in to't.</l>
+                  <l>Tis surely so, and time to runne I weene,</l>
+                  <l>When as the Gallous threatens him such teen<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</l>
+               </lg>
+               <lg>
+                  <l>No, y'are deceiude, hee's true, and euer was,</l>
+                  <l>He scornes to steale from any in this place.</l>
+                  <l>Then in an other place it seemes he will?</l>
+                  <l>Be not so Iealous, you mistake me still.</l>
+                  <l>How is it then he sweates so, let me heare?</l>
+                  <l>O, he ranne for some wager, I do feare.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:177580:28"/>
+                  <l>Neither infayth, and yet he made great haste,</l>
+                  <l>Such haste as few can make, but with much waste:</l>
+                  <l>He leapt three ditches, one hedge, and a wall,</l>
+                  <l>To win his will, whereby to scape them all:</l>
+                  <l>For shall I tell thee, he hath run his best,</l>
+                  <l>To saue his body now from an arrest.</l>
+               </lg>
+               <lg>
+                  <head>Quip.</head>
+                  <l>
+                     <hi>Twas time to runne indeede, and to vse cunning,</hi>
+                  </l>
+                  <l>
+                     <hi>Else had he been layde vpp, for euer running:</hi>
+                  </l>
+                  <l>
+                     <hi>Yet sweates he not I telt thee, therefore peace,</hi>
+                  </l>
+                  <l>
+                     <hi>This honest man melts but his knaues greace.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="question">
+               <head>Why Iettes she so?</head>
+               <lg>
+                  <l>
+                     <hi>Gillian</hi> doth Iett and braue it with the best,</l>
+                  <l>Although a begger borne, and oft distrest:</l>
+                  <l>Yet now a Seruant, and in some account,</l>
+                  <l>One poore yeeres wages, makes her thus surmount.</l>
+               </lg>
+               <lg>
+                  <l>A gallant Neckenger her necke to grace,</l>
+                  <l>No matter for her Gowne, or other place:</l>
+                  <l>Good foote, good legge: these two are chiefly fine.</l>
+                  <l>And she that giues her wages must decline.</l>
+               </lg>
+               <lg>
+                  <l>O <hi>Gillian,</hi> yet remember, Iett not so,</l>
+                  <l>Maydes must be vnder Mistresses, you know.</l>
+                  <l>Must you be fine? thinke but how things are deere.</l>
+                  <l>Aboue fouer Nobles wages in one yeere.</l>
+               </lg>
+               <lg>
+                  <head>Quip.</head>
+                  <l>
+                     <hi>True, thats all one: doe</hi> Gillian, <hi>goe braue still,</hi>
+                  </l>
+                  <l>
+                     <hi>And it will bring thee soone vp Holborne hill.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="question">
+               <pb facs="tcp:177580:28"/>
+               <head>Who is that?</head>
+               <lg>
+                  <l>Who do you meane, this Gallant that comes heere?</l>
+                  <l>I, euen the same: listen and I will show.</l>
+                  <l>This meacocke was a man, and but last yeere</l>
+                  <l>Fell he thus poore, thus wrapt in weedes of woe:</l>
+                  <l>And fiue yeeres since, he that should tell him this,</l>
+                  <l>Had had his Poyniard in his sides by lysse.</l>
+               </lg>
+               <lg>
+                  <l>For he had houses, and a mightie stocke,</l>
+                  <l>Landes in the Countrey, and much coyne at vse:</l>
+                  <l>But riotous company that still did flocke</l>
+                  <l>Both day and night to him, causd this abuse.</l>
+                  <l>Dice, wine, and women, wonne, drunke, &amp; spent all,</l>
+                  <l>And now he liues a vasiall at each call.</l>
+               </lg>
+               <lg>
+                  <l>A by-word to the worlde, and thus he goes,</l>
+                  <l>Sicke with necessitie, and pinde with want:</l>
+                  <l>Where he had plentie, gingling in his hose,</l>
+                  <l>Now poouertie in's pocket, maketh scant.</l>
+                  <l>And his poore belly that did surfet then,</l>
+                  <l>Feeding a number, now is fedd by men.</l>
+               </lg>
+               <lg>
+                  <l>O griefe exceeding, where did wealth exceede.</l>
+                  <l>O care abounding in abundance steade.</l>
+                  <l>O ill helpe of the holpen: now his neede,</l>
+                  <l>Makes him in sorrow, for to begge his bread.</l>
+                  <l>O friendes what meane you to leaue wealth to such,</l>
+                  <l>Whose wit seemes nothing, cloyde with ouer much.</l>
+               </lg>
+               <lg>
+                  <head>Quip</head>
+                  <l>
+                     <hi>Content your selues, did parents know the spending,</hi>
+                  </l>
+                  <l>
+                     <hi>They would not leaue so much, to such bad ending:</hi>
+                  </l>
+                  <l>
+                     <hi>But hope of doing well, makes them forgo,</hi>
+                  </l>
+                  <l>
+                     <hi>What after their depart, their Sonnes spend so:</hi>
+                  </l>
+                  <l>
+                     <hi>And tis enough for Sonnes, that spend so bad,</hi>
+                  </l>
+                  <l>
+                     <hi>(Me thinkes) to say: suffizes once I had.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="question">
+               <pb facs="tcp:177580:29"/>
+               <head>Can that Boy read?</head>
+               <lg>
+                  <l>Yes, he can read, and is a prettie Youth,</l>
+                  <l>And hath his Lattin tongue, and can do well.</l>
+                  <l>But he will not do well, for still his truth</l>
+                  <l>Is subiect to a scandall, doing ill.</l>
+                  <l>O good guift ill bestowde, when such as he</l>
+                  <l>May do well and will not; but euill wilbe.</l>
+               </lg>
+               <lg>
+                  <l>Write he can, and cast account right well:</l>
+                  <l>Cipher he can too: and in deed what not?</l>
+                  <l>More then he should sometime, which I could tell▪</l>
+                  <l>But hoping he will mende: no more of that.</l>
+                  <l>His reeding sau'd his life once: you know why.</l>
+                  <l>Me thinkes it had been better he did die.</l>
+               </lg>
+               <lg>
+                  <head>Quip.</head>
+                  <l>
+                     <hi>No God forbid, the burnt childe dreades the fier,</hi>
+                  </l>
+                  <l>
+                     <hi>Tis true, and once in danger, come no nyer:</hi>
+                  </l>
+                  <l>
+                     <hi>Least once too neare, you chaunce at length to swarue,</hi>
+                  </l>
+                  <l>
+                     <hi>When all your ready reeding will not serue.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="question">
+               <head>He had much wit.</head>
+               <lg>
+                  <l>He had muth wit, else had he neare been ritch,</l>
+                  <l>For what he hath, he had it through the fier.</l>
+                  <l>He had much wit, and there are but few such,</l>
+                  <l>That with their wit can purchase their desier.</l>
+                  <l>A number liue that wisely would be thought,</l>
+                  <l>When their wit failes them, &amp; doth come to nought</l>
+               </lg>
+               <lg>
+                  <l>Houses he hath a number, and much land,</l>
+                  <l>His pursse is stuft, and he hath a full hand;</l>
+                  <pb facs="tcp:177580:29"/>
+                  <l>But of his store what giues he to the needie?</l>
+                  <l>Nothing at all, in that he is not speedie.</l>
+                  <l>His pursse is tide fast, and his minde is sparing,</l>
+                  <l>And for the poorer sort hath litle caring.</l>
+               </lg>
+               <lg>
+                  <l>Had he much wit to get this worldes encrease▪</l>
+                  <l>And hath he no wit left rightly to vse it?</l>
+                  <l>He hath no wit then now, and therefore peace,</l>
+                  <l>Such as haue Gods true blessing, and abuse it,</l>
+                  <l>Had better be still poore: for fellow credite me,</l>
+                  <l>He hath but litle wit, and farre lesse honestie.</l>
+               </lg>
+               <lg>
+                  <head>Quip.</head>
+                  <l>
+                     <hi>He that gets much and little giues,</hi>
+                  </l>
+                  <l>
+                     <hi>He seemes a liuing man, but little liues,</hi>
+                  </l>
+                  <l>
+                     <hi>He that had wit him selfe to thrall,</hi>
+                  </l>
+                  <l>
+                     <hi>Better say I, h'had had no wit at all.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="question">
+               <head>He buildes a great House.</head>
+               <lg>
+                  <l>A man must of necessitie goe builde,</l>
+                  <l>Not for a lackes a house, for one a had:</l>
+                  <l>Which house hath euer been extreamely filde</l>
+                  <l>With goodes and store, which me thinkes was not bad.</l>
+                  <l>But though a while his little house had plentie,</l>
+                  <l>Yet now of late his little house was emptie.</l>
+               </lg>
+               <lg>
+                  <l>Thinke you his little House was not enough</l>
+                  <l>To holde his store, when it was seldome filde:</l>
+                  <l>Yes, what of that, he layes hand to his plough,</l>
+                  <l>And makes a vow he will a bigger builde.</l>
+                  <l>A hundreth men with much a do doth labour,</l>
+                  <l>Hated and still despisde of euery neighbour.</l>
+               </lg>
+               <pb facs="tcp:177580:30"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:177580:30"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:177580:31"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:177580:31"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <lg>
+                  <pb facs="tcp:177580:32"/>
+                  <l>Yet still goes forward this great worke of worth,</l>
+                  <l>And now tis builded, though with care and cost.</l>
+                  <l>What will you say now, if to crosse his mirth,</l>
+                  <l>His fortunes will not equall his high boast.</l>
+                  <l>Will they be strange, if he haue worse successe,</l>
+                  <l>Then in his little House which did decrease.</l>
+               </lg>
+               <lg>
+                  <l>True, twill be strange in deed: well, let it passe,</l>
+                  <l>Hope well and haue well, that is so you know:</l>
+                  <l>But shall a trades man where so ill a was,</l>
+                  <l>Remooue his shop in hope to do well so?</l>
+                  <l>No rather in his first shop let him proue.</l>
+                  <l>To get good custome for his ware or loue.</l>
+               </lg>
+               <lg>
+                  <l>Well, now tis vp, faire, ritch, and well maintaind.</l>
+                  <l>God sende it keepe so, that is all I care,</l>
+                  <l>His welfare greeues not mee, nor am I paind,</l>
+                  <l>That he shiftes for the better: my dispaire</l>
+                  <l>Is onely this, while he for wealth is wooing,</l>
+                  <l>I feare his great House will haue little dooing.</l>
+               </lg>
+               <lg>
+                  <head>Quip.</head>
+                  <l>
+                     <hi>Talke what you know, yet it is ritchly stuft,</hi>
+                  </l>
+                  <l>
+                     <hi>At which this iolly builder laught and puft:</hi>
+                  </l>
+                  <l>
+                     <hi>His Haruest is but cutting, ear't be downe,</hi>
+                  </l>
+                  <l>
+                     <hi>The winde may turne, 'tmay raine, and clowdes may frowne</hi>
+                  </l>
+                  <l>
+                     <hi>How ere the weather seeme▪ care set a part,</hi>
+                  </l>
+                  <l>
+                     <hi>He will not craue thy helpe to pitch his cart.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="question">
+               <head>He begins well, but endes ill.</head>
+               <lg>
+                  <l>In his beginning, all he did was well:</l>
+                  <l>For why, his labour sought still to excell:</l>
+                  <l>But ere the middle came, wearines tooke him,</l>
+                  <l>So that his Muse offended, quite forsooke him.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:177580:32"/>
+                  <l>So in the ende, it must of force be ill,</l>
+                  <l>Although perchaunce the Author shewde goodwill:</l>
+                  <l>Weakenes of wit, was cause he did so bad,</l>
+                  <l>Not loue of hart, for that was alwayes had.</l>
+               </lg>
+               <lg>
+                  <l>Loue cannot labour, if the witt do want:</l>
+                  <l>But witt without loue, may both sowe and plant:</l>
+                  <l>Yet in the ende, such witles loue hath hope,</l>
+                  <l>To reape in Haruest, but a sorry croppe.</l>
+               </lg>
+               <lg>
+                  <l>Who would be wearie in his dooing well,</l>
+                  <l>But labour earnestly still to doe well:</l>
+                  <l>Well dooing hath an Ague hauntes him still,</l>
+                  <l>Which must b'out labourde with an earnest will.</l>
+               </lg>
+               <lg>
+                  <l>Pepper and Aqua-vitae will not sarue,</l>
+                  <l>For so well dooing may too sodaine starue:</l>
+                  <l>Nor sleeping on a bed, or sweating theare:</l>
+                  <l>This Ague must be driuen hence with a feare.</l>
+               </lg>
+               <lg>
+                  <l>Which feare in labour doth maintaine goodwill:</l>
+                  <l>Feare so, and labour so, and thou shalt still,</l>
+                  <l>Begin at first, and as thou dost begin,</l>
+                  <l>The middle and the ende shall ioye therein.</l>
+               </lg>
+               <lg>
+                  <head>Quip.</head>
+                  <l>
+                     <hi>All is as much to say, the Author feares,</hi>
+                  </l>
+                  <l>
+                     <hi>The Reader vowes to haue him by the eares:</hi>
+                  </l>
+                  <l>
+                     <hi>Because beginning well, and ending ill,</hi>
+                  </l>
+                  <l>
+                     <hi>Shewes haughtie thoughts, vsing but little skill.</hi>
+                  </l>
+                  <l>
+                     <hi>How ere it happens, my good will is such,</hi>
+                  </l>
+                  <l>
+                     <hi>As what I doe, I doe not thinke too much.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="conclusion">
+               <pb facs="tcp:177580:33"/>
+               <head>The Conclusion.</head>
+               <l>Gentilles, whose gentlenes in censuring,</l>
+               <l>Is to take pleasure in your pittying:</l>
+               <l>Craftes-men, whose craft in clenly couering,</l>
+               <l>Is to be craftie in your kindest cunning,</l>
+               <l>To you I appeale: to whom in my appealling,</l>
+               <l>I craue forgiuenes, giuing this hard dealing.</l>
+               <l>What can you more, but true contrition.</l>
+               <l>Earnestly craude with true submission.</l>
+               <l>What is amisse, it is your minde to pardon,</l>
+               <l>Whose hartes no vnkinde deede can harden.</l>
+               <l>This is my comfort makes me not dispaire,</l>
+               <l>Your free loue euer will abridge my care.</l>
+               <l>Some one will say, wit wanting, men</l>
+               <l>Are rash to speake, or write with pen.</l>
+               <l>Others excuse it, and will alwayes say,</l>
+               <l>Desier to do well, makes a number stray.</l>
+               <l>If to do well w<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> offende, then that offence</l>
+               <l>Is to be pardond for the good pretence.</l>
+               <l>So to conclude, no more but this,</l>
+               <l>All thinges well taken, nought's amisse.</l>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Imprinted at London by <hi>W. White</hi> for William Ferbrand. 1600.</p>
+            <pb facs="tcp:177580:33"/>
+         </div>
+      </back>
+   </text>
+</TEI>
